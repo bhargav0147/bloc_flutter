@@ -1,16 +1,11 @@
-# bloc_flutter
+# Flutter With Bloc
 
-A new Flutter project.
+# Flutter Connectivity Checker with BLoC
 
-## Getting Started
+This Flutter project demonstrates how to implement internet connectivity checking using BLoC (Business Logic Component) architecture, along with the connectivity plugin to monitor network connectivity status, including WiFi and mobile data.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Check for internet connectivity status.
+- Support for both WiFi and mobile data.
+- Implemented using BLoC pattern for clean and manageable code.
