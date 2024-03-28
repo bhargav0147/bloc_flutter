@@ -2,8 +2,8 @@
 
 import 'dart:async';
 
-import 'package:bloc_flutter/Internet_Bloc/Bloc/Internet_Event.dart';
-import 'package:bloc_flutter/Internet_Bloc/Bloc/Internet_State.dart';
+import 'package:bloc_flutter/Internet/Bloc/Internet_Event.dart';
+import 'package:bloc_flutter/Internet/Bloc/Internet_State.dart';
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
